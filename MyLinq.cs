@@ -2,7 +2,6 @@
 
 public static class MyLinq
 {
-    
     #region Filtering
 
     /// <summary>
