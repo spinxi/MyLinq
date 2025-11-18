@@ -1,4 +1,4 @@
-# LINQ implementation in C#
+# MyLinq
 A lightweight, educational LINQ implementation in C# — built from scratch.
 
 ## ✨ Introduction
